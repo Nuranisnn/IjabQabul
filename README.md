@@ -39,13 +39,16 @@ The application is developed using **[Flutter](ca://s?q=Explain_Flutter_framewor
 
 In conclusion, IjabQabul simplifies wedding preparation for Muslim couples in Malaysia by offering an organized and accessible digital solution. By integrating planning tools, marriage guidance, and progress tracking in one platform, the app helps reduce stress and supports better decision-making throughout the wedding journey.
 
---- ![Uploading Feature 4.png…]()
+---
 
 
 ## Repository Contents
 This repository contains:
 - The **Group Project Report**  
 - The **Progress Report**  
-- The complete **Source Code** for the IjabQabul application  
+- The complete **Source Code** for the IjabQabul application
+- ## Figma Prototype
+You can view our design here: [IjabQabul Figma Prototype](https://www.figma.com/design/6KdevWPdCOUC9abuD9LN8i/HCI_BITEALERT--Copy-?node-id=2311-4097&t=4eGzsXKgqvNoojFi-1))
+
 
 All files are available below for reference and evaluation.

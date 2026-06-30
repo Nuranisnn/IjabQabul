@@ -44,9 +44,9 @@ In conclusion, IjabQabul simplifies wedding preparation for Muslim couples in Ma
 
 ## Repository Contents
 This repository contains:
-- The **Group Project Report**  
+- The **Group Project Report** : Group Craft Report.pdf 
 - The **Progress Report**  : Progress Report Group Craft.pdf
-- The complete **Source Code** for the IjabQabul application
+- The complete **Source Code** for the IjabQabul application (DART File)
 
 ## Figma Prototype
 You can view our design figma here: [IjabQabul Figma Prototype](https://www.figma.com/design/6KdevWPdCOUC9abuD9LN8i/HCI_BITEALERT--Copy-?node-id=2311-4097&t=4eGzsXKgqvNoojFi-1)
